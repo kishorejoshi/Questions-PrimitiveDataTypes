@@ -1,0 +1,5 @@
+c:\users\kjoshi\documents\visual studio 2012\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\PrimitiveDataTypes.exe
+c:\users\kjoshi\documents\visual studio 2012\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\PrimitiveDataTypes.pdb
+c:\users\kjoshi\documents\visual studio 2012\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.csprojResolveAssemblyReference.cache
+c:\users\kjoshi\documents\visual studio 2012\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.exe
+c:\users\kjoshi\documents\visual studio 2012\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.pdb
